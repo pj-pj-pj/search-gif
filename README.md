@@ -1,1 +1,1 @@
-Search gifs with gif api
+Search gifs with giphy api. 
