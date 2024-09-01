@@ -11,20 +11,25 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 h1 {
-  margin-bottom: 5vmin;
+  margin-bottom: 3px;
+}
+
+span {
+  display: flex;
 }
 
 button {
-  font-size: 28px;
-  margin: 20px;
+  font-size: 14px;
 }
 
 img {
-  height: 65vmin;
+  width: 85vmin;
+  margin: auto;
+  padding: 15px;
 }
 
 input {
